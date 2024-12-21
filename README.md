@@ -1,15 +1,15 @@
 # Near-Time GIS for Flood Monitoring and Analysis in Niger River Basin, Nigeria
 This repository hosts the resources, code, and documentation for the study **"Enhancing Disaster Response and Resilience Through Near-Time GIS for Flood Monitoring and Analysis in Niger River Basin, Nigeria"**, as presented at the ISPRS TC III Mid-term Symposium, 2024.
 
-## Overview
+### Overview
 Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infrastructure, particularly in the Niger River Basin. This project leverages Google Earth Engine (GEE) for near-real-time flood mapping, impact analysis, and flood resilience modeling. It combines multi-temporal remote sensing datasets with geospatial analysis techniques to quantify flood hazards, assess exposure, and provide actionable insights for disaster response.
 
-## Key Features
+### Key Features
 - **Automated Flood Monitoring**: Utilizes Sentinel-2 and Sentinel-1 datasets for accurate and timely flood mapping.
 - **Impact Assessment**: Integrates population, land use, and building footprint data to quantify flood impacts.
 - **Scalable Workflow**: Cloud-based processing using GEE for efficient and reproducible geospatial analytics.
-Methodology
-Data Sources
+## Methodology
+### Data Sources
 Sentinel-2 MSI: Optical imagery for flood detection and land-use classification.
 Sentinel-1 SAR: Radar imagery for cloud-penetrating flood analysis.
 NASA SRTM DEM: Elevation data for terrain analysis.
