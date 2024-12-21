@@ -33,18 +33,17 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
     - Loss of agricultural land and vegetation due to prolonged waterlogging.
     - Conversion of 15,000 hectares to unproductive wetlands.
 - **Population and Infrastructure**:
-    - Over 150,000 residents affected by flooding.
+    - Over 150,000 residents were affected by flooding.
     - 143,000 buildings identified within flood-prone zones.
 ## Maps and Visualizations
 ### Installation and Usage
 #### Prerequisites
-A Google Earth Engine account.
-GIS software like ArcGIS or QGIS (optional).
-Setup
-Clone this repository:
+- A Google Earth Engine account.
+- GIS software like ArcGIS or QGIS (optional).
+#### Setup
+1. Clone this repository:
 bash
-Copy code
-git clone https://github.com/<your-username>/<your-repo>.git
+```git clone https://github.com/<your-username>/<your-repo>.git```
 Access the Google Earth Engine scripts provided in the code/ directory.
 Update the Area of Interest (AOI) and timeframes in the script as needed.
 Running the Analysis
