@@ -42,8 +42,7 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 - GIS software like ArcGIS or QGIS (optional).
 #### Setup
 1. Clone this repository:
-```
-bash
+```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 ```
 Access the Google Earth Engine scripts provided in the code/ directory.
