@@ -28,14 +28,14 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 4. **Visualization**: Generate maps and reports using geospatial tools.
 
 ## Results
-Flood Extent Analysis: A 53% increase in inundation area was observed during the 2022 flood peak.
-Land Use Impacts:
-Loss of agricultural land and vegetation due to prolonged waterlogging.
-Conversion of 15,000 hectares to unproductive wetlands.
-Population and Infrastructure:
-Over 150,000 residents affected by flooding.
-143,000 buildings identified within flood-prone zones.
-Maps and Visualizations
+- **Flood Extent Analysis**: A 53% increase in inundation area was observed during the 2022 flood peak.
+- **Land Use Impacts**:
+    - Loss of agricultural land and vegetation due to prolonged waterlogging.
+    - Conversion of 15,000 hectares to unproductive wetlands.
+- **Population and Infrastructure**:
+    - Over 150,000 residents affected by flooding.
+    - 143,000 buildings identified within flood-prone zones.
+### Maps and Visualizations
 Installation and Usage
 Prerequisites
 A Google Earth Engine account.
