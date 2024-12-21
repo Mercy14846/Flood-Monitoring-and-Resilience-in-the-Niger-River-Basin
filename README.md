@@ -35,9 +35,9 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 - **Population and Infrastructure**:
     - Over 150,000 residents affected by flooding.
     - 143,000 buildings identified within flood-prone zones.
-### Maps and Visualizations
-Installation and Usage
-Prerequisites
+## Maps and Visualizations
+### Installation and Usage
+#### Prerequisites
 A Google Earth Engine account.
 GIS software like ArcGIS or QGIS (optional).
 Setup
