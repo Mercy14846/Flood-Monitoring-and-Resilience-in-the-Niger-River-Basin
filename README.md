@@ -10,19 +10,19 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 - **Scalable Workflow**: Cloud-based processing using GEE for efficient and reproducible geospatial analytics.
 ## Methodology
 ### Data Sources
-Sentinel-2 MSI: Optical imagery for flood detection and land-use classification.
-Sentinel-1 SAR: Radar imagery for cloud-penetrating flood analysis.
-NASA SRTM DEM: Elevation data for terrain analysis.
-Global Surface Water Dataset: Historical water body dynamics.
-Landsat 8: Additional multi-temporal land cover analysis.
-Tools and Libraries
-Google Earth Engine: Primary platform for data processing and analysis.
-ArcGIS/QGIS: For additional preprocessing and visualization.
-Python: Supporting scripts for modeling and data manipulation.
-Workflow
-Data Acquisition: Collect and preprocess satellite imagery and terrain datasets.
-Flood Mapping: Apply spectral indices (e.g., NDWI) and radar analysis to delineate flood extents.
-Impact Analysis:
+- **Sentinel-2 MSI**: Optical imagery for flood detection and land-use classification.
+- **Sentinel-1 SAR**: Radar imagery for cloud-penetrating flood analysis.
+- **NASA SRTM DEM**: Elevation data for terrain analysis.
+- **Global Surface Water Dataset**: Historical water body dynamics.
+- **Landsat 8**: Additional multi-temporal land cover analysis.
+### Tools and Libraries
+- **Google Earth Engine**: Primary platform for data processing and analysis.
+- **ArcGIS Pro**: For additional preprocessing and visualization.
+- **Python**: Supporting scripts for modeling and data manipulation.
+### Workflow
+1. **Data Acquisition**: Collect and preprocess satellite imagery and terrain datasets.
+2. **Flood Mapping**: Apply spectral indices (e.g., NDWI) and radar analysis to delineate flood extents.
+3. **Impact Analysis**:
 Assess changes in land use and land cover.
 Overlay flood extents with population and building datasets.
 Visualization: Generate maps and reports using geospatial tools.
