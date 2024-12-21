@@ -79,4 +79,4 @@ If you use this repository in your research or projects, please cite:
 Akintola, M. O. (2024). Enhancing Disaster Response and Resilience Through Near-Time GIS for Flood Monitoring and Analysis in Niger River Basin, Nigeria. ISPRS TC III Mid-term Symposium, Belém, Brazil.
 ```
 ## License
-This project is licensed under the CC BY 4.0 License.
+This project is licensed
