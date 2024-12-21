@@ -3,7 +3,7 @@ This repository hosts the resources, code, and documentation for the study **"En
 
 ### Overview
 Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infrastructure, particularly in the Niger River Basin. This project leverages Google Earth Engine (GEE) for near-real-time flood mapping, impact analysis, and flood resilience modeling. It combines multi-temporal remote sensing datasets with geospatial analysis techniques to quantify flood hazards, assess exposure, and provide actionable insights for disaster response.
-![Study Area](https://github.com/user-attachments/assets/8a1aaf12-4cb8-4241-80b1-1d482cff9ec9)
+![NBStudy Area](https://github.com/user-attachments/assets/10e3a850-08ad-445a-bbec-3c156ef0209b)
 
 ### Key Features
 - **Automated Flood Monitoring**: Utilizes Sentinel-2 and Sentinel-1 datasets for accurate and timely flood mapping.
@@ -16,6 +16,8 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 - **NASA SRTM DEM**: Elevation data for terrain analysis.
 - **Global Surface Water Dataset**: Historical water body dynamics.
 - **Landsat 8**: Additional multi-temporal land cover analysis.
+<img width="1971" alt="Methodology" src="https://github.com/user-attachments/assets/72f9f6cf-798c-415e-8a90-d6563372ea5e" />
+
 ### Tools and Libraries
 - **Google Earth Engine**: Primary platform for data processing and analysis.
 - **ArcGIS Pro**: For additional preprocessing and visualization.
@@ -27,8 +29,8 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
     - Assess changes in land use and land cover.
     - Overlay flood extents with population and building datasets.
 4. **Visualization**: Generate maps and reports using geospatial tools.
-<img width="1971" alt="Methodology" src="https://github.com/user-attachments/assets/7e5e6296-cf52-4f49-8685-3da4165e0988" />
- 
+ ![Workflow](https://github.com/user-attachments/assets/62cb3e19-2faa-4ace-9d4f-a2ffeebea2f2)
+
 ## Results
 - **Flood Extent Analysis**: A 53% increase in inundation area was observed during the 2022 flood peak.
 ![hills](https://github.com/user-attachments/assets/987b0b9f-a73a-424e-8eec-f14a5e874335)
