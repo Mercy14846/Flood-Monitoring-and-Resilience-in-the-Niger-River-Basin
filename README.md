@@ -45,30 +45,28 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 ```
-Access the Google Earth Engine scripts provided in the code/ directory.
-Update the Area of Interest (AOI) and timeframes in the script as needed.
-Running the Analysis
-Run the GEE scripts for data preprocessing, flood detection, and mapping.
-Export results (e.g., GeoTIFFs) for further analysis in GIS software.
-Applications
+2. Access the Google Earth Engine scripts provided in the code/ directory.
+3. Update the Area of Interest (AOI) and timeframes in the script as needed.
+### Running the Analysis
+- Run the GEE scripts for data preprocessing, flood detection, and mapping.
+- Export results (e.g., GeoTIFFs) for further analysis in GIS software.
+## Applications
 This workflow can be adapted for:
-
-Real-time flood monitoring and early warning systems.
-Climate change adaptation planning.
-Urban and regional flood risk management.
-Contributions
+- Real-time flood monitoring and early warning systems.
+- Climate change adaptation planning.
+- Urban and regional flood risk management.
+## Contributions
 Contributions to improve this repository are welcome! Please open an issue or submit a pull request.
 
-Citation
+## Citation
 If you use this repository in your research or projects, please cite:
 
-mathematica
+```mathematica
 Copy code
 Akintola, M. O. (2024). Enhancing Disaster Response and Resilience Through Near-Time GIS for Flood Monitoring and Analysis in Niger River Basin, Nigeria. ISPRS TC III Mid-term Symposium, Belém, Brazil.
-License
+```
+## License
 This project is licensed under the CC BY 4.0 License.
-
-
 
 
 # Flood-Mapping
