@@ -43,8 +43,8 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
 #### Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git```
-
+git clone https://github.com/<your-username>/<your-repo>.git
+```
 Access the Google Earth Engine scripts provided in the code/ directory.
 Update the Area of Interest (AOI) and timeframes in the script as needed.
 Running the Analysis
