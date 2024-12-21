@@ -62,7 +62,6 @@ Contributions to improve this repository are welcome! Please open an issue or su
 If you use this repository in your research or projects, please cite:
 
 ```mathematica
-Copy code
 Akintola, M. O. (2024). Enhancing Disaster Response and Resilience Through Near-Time GIS for Flood Monitoring and Analysis in Niger River Basin, Nigeria. ISPRS TC III Mid-term Symposium, Belém, Brazil.
 ```
 ## License
