@@ -26,7 +26,8 @@ Flooding in Nigeria is a critical issue affecting lives, livelihoods, and infras
     - Assess changes in land use and land cover.
     - Overlay flood extents with population and building datasets.
 4. **Visualization**: Generate maps and reports using geospatial tools.
-Results
+
+## Results
 Flood Extent Analysis: A 53% increase in inundation area was observed during the 2022 flood peak.
 Land Use Impacts:
 Loss of agricultural land and vegetation due to prolonged waterlogging.
