@@ -1,4 +1,4 @@
-On 20  September 2022, severe floods affected the Lokoja in Kogi State, Nigeria
+// On 20  September 2022, severe floods affected the Lokoja in Kogi State, Nigeria
 // due to unusually high water push during the season.
 // It was the worst flood in Lokoja in nearly a century.
 // https://en.wikipedia.org/wiki/2022_Nigeria_floods
