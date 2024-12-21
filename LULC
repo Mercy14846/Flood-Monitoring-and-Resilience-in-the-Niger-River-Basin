@@ -1,4 +1,3 @@
-```js
 var basinAreaOutline = ee.Image().byte().paint({ 
 featureCollection: AOI, 
 color: 1, 
@@ -125,4 +124,3 @@ print('Validation overall accuracy: ', testAccuracy)
 print('Confusion Matrix', confusionMatrix);
 
 print('After Overall Accuracy', testAccuracy)
-```
